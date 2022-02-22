@@ -27,4 +27,3 @@ numbers2 = [3, 30, 34, 5, 9]
 
 print("11 :  " , solution(numbers1))
 # print("22 " , solution(numbers2))
-
